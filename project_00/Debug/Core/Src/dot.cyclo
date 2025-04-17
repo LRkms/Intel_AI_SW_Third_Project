@@ -1,0 +1,7 @@
+../Core/Src/dot.c:49:6:shiftOut	2
+../Core/Src/dot.c:64:6:display_pattern	2
+../Core/Src/dot.c:78:6:display_pattern_frame	2
+../Core/Src/dot.c:94:6:display_pattern_rowwise	2
+../Core/Src/dot.c:137:6:test_rows_only	2
+../Core/Src/dot.c:155:6:test_cols_only	2
+../Core/Src/dot.c:173:6:test_columns_off	1
